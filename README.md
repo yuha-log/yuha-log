@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-2EC4B6?style=for-the-badge&logo=openai&logoColor=white)
+
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -42,5 +44,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🔗 Link
-- 🌐 Portfolio: https://yuha_log.com  
+### 📫 Contact 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuha.log37@gmail.com)
+
+
