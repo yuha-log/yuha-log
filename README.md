@@ -3,9 +3,9 @@
 こんにちは！
 さまざまな経験を活かし、ユーザーのためのサービスを企画する開発者、キム・ユハです。
 
-🌱 着実に成長し続けるエンジニア
-⚡ 新しい技術を学ぶことが好きです。
-😀 ユーザー目線でサービスを企画します。
+- 🌱 着実に成長し続けるエンジニア
+- ⚡ 新しい技術を学ぶことが好きです。
+- 😀 ユーザー目線でサービスを企画します。
 
 <!--
 **yuha-log/yuha-log** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
