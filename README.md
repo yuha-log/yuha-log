@@ -1,12 +1,11 @@
 ## Kim YuHa - Full Stack Developer
 
+こんにちは！
+さまざまな経験を活かし、ユーザーのためのサービスを企画する開発者、キム・ユハです。
 
-안녕하세요!  
-다양한 경험을 바탕으로 소비자를 위한 서비스를 기획하는 개발자 **김유하**입니다.
-
-- 🌱 꾸준히 성장하는 개발자
-- ⚡ 새로운 기술을 배우는 것을 좋아합니다.
-- 😀 사용자 중심의 서비스를 기획합니다.
+🌱 着実に成長し続けるエンジニア
+⚡ 新しい技術を学ぶことが好きです。
+😀 ユーザー目線でサービスを企画します。
 
 <!--
 **yuha-log/yuha-log** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
